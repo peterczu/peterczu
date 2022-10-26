@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peterczu
+- 👋 Hi, I’m Peter M
 - 👀 I’m interested in software Development (Data Analytics and Database Management)
 - 🌱 I’m currently learning Bootstrap, Python, MySQL
 - 💞️ I’m looking to collaborate on ...
